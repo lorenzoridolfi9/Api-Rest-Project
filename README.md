@@ -2,7 +2,7 @@
 Api Rest for CRUD operations
 This project is a Java application based on Spring Boot to manage college students and their college journey.
 
-## Features
+## Features 👨🏻‍💻
 
 - Adding students with personal information, such as first name, last name, date of birth, major, and city.
 - Viewing details of a specific student by id.
@@ -10,7 +10,7 @@ This project is a Java application based on Spring Boot to manage college studen
 - Editing student information.
 - Removing information for each student.
 
-## Technologies 
+## Technologies ⚙️
 - Eclipse IDE
 - Java 19.0.2
 - Spring Boot 2.5.4
@@ -20,7 +20,7 @@ This project is a Java application based on Spring Boot to manage college studen
 - MySQL Workbench
 - Postman
 
-## Configuration of working environment
+## Configuration of working environment 
 
 1. Make sure you have Java Development Kit (JDK) version 19.0.2 or later installed.
 2. Add the Spring tools 4 plugin.
@@ -42,7 +42,7 @@ The following APIs are available to interact with the application:
 - **PUT /api/students/{id}**: Changes the information of an existing student.
 - **DELETE /api/students/{id}**: Deletes a student.
 
-## Contributions
+## Contributions 👨‍👩‍👦‍👦
 
 Contributions to this project are welcome. If you would like to contribute, please follow the steps below:
 

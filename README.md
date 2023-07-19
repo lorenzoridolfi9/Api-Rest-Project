@@ -1,5 +1,5 @@
 # Api-Rest-Project
-Api Rest for CRUD operations
+Api Rest for CRUD operations.
 
 This project is a Java application based on Spring Boot to manage college students and their college journey.
 
